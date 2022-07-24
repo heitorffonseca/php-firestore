@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+.env
+google-firestore.json
+vendor
+index.php
